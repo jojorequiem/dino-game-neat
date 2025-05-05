@@ -7,7 +7,6 @@ import random
 
 pygame.init()
 
-# Global Constants
 BLACK_COLOR = (0, 0, 0)
 WHITE_COLOR = (255, 255, 255)
 

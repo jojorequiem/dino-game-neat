@@ -1,2 +1,2 @@
-python3 -m venv dinosaur-game
-source dinosaur-game/bin/activate
+pygame
+neat-python
